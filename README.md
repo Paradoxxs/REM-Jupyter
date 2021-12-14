@@ -1,2 +1,2 @@
-# REM-Jupyter -WIP-
+# REM-Jupyter
 Malware analysis using Jupyter notebook
