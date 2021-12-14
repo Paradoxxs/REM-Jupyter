@@ -2,3 +2,4 @@ pefile
 requests
 virustotal-api
 yara-python
+lief
